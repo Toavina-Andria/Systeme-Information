@@ -300,3 +300,12 @@ Exemples :
 - orthophotographies
 - images satellites
 - images scannées
+
+---
+### Données attributaires
+- Les données attributaires sont les données associées à un objet géographique **vectoriel**
+Exemple : 
+- Nom de rue
+- Longueur d'une rue 
+- Adresse d'une maison
+- Nom de proprétaires

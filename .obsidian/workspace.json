@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Introduction"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "b6789242918a7b53",
   "lastOpenFiles": [
+    "README.md",
     "Logiciels SIG.md",
     "Introduction.md",
-    "README.md",
     "Index.md",
     "Flux d'un système D'information.canvas",
     "Les Métiers des Systèmes d'information.md",

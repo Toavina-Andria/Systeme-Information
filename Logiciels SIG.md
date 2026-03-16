@@ -14,4 +14,6 @@
 ## Commerciaux:
 
 - #### ArcGIS :
-	
+	D'ESRI - leader historique du marché du SIG. 
+- #### MapINFO, MapXtreme,MapMarker
+	de *Pitney Bowes*, leader mondial du SIG.
